@@ -44,7 +44,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://linkedin.com/in/navindu-sachintha" target="blank">
+    <a href="www.linkedin.com/in/himethma-bandara-yapa" target="blank">
         <img align="center" src="https://github.com/navindu-sachintha/skill-icons/blob/main/icons/LinkedIn.svg" alt="navindu-sachintha" height="50" width="50" />
     </a>
 </p>
